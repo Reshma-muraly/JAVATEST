@@ -10,16 +10,4 @@ public class SingleInheritance {
 		}
 }
 
-  class Child
- {
-	 
- 
-	
-	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		SingleInheritance obj= new SingleInheritance();
-				obj.display(2, 115);
-	}
-
-}
+  
